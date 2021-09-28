@@ -1,23 +1,22 @@
 <h1 align="center" >Hi 👋, I'm Karolis Kimtys</h1>
-<h3 align="center">A passionate frontend developer from United Kingdom</h3>
+<h3 align="center">A passionate Front End  Web Developer 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-karolis&label=Profile%20views&color=0e75b6&style=flat" alt="k-karolis" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karolis-kimtys" alt="karolis kimtys" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Move the Masses**
+- 🔭 I’m currently working on **Move the Masses Charity**
 
-- 🌱 I’m currently learning **all about Web Developement**
+- 🌱 I’m currently learning **All about Web Developement**
 
-- 👯 I’m looking to collaborate on **JavasScript/React**
+- 👯 I’m looking to collaborate on **JavasScript/React Projects**
 
 - 👨‍💻 All of my projects are available at [https://www.karoliskimtys.com/](https://www.karoliskimtys.com/)
 
 - 📫 How to reach me **karolis.kimtys@gmail.com**
 
-- 📄 Know about my experiences [www.notion.com](www.notion.com)
+- 📄 Know about my experiences, check my [CV](https://www.notion.so/karoliskimtys/Karolis-Kimtys-3a9bda1f40db4d66b53bc9958e70276a)
 
 
 <h3 align="left">Languages and Tools:</h3>
