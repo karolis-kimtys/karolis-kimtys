@@ -29,6 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karolis-kimtys&" alt="karolis-kimtys" /></p>
 
-[![Karolis Kimtys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karolis-kimtys)]
+[![Karolis Kimtys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karoliskimtys)]
 
 
