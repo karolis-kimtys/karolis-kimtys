@@ -30,5 +30,5 @@
 <!-- [![Karolis Kimtys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karoliskimtys)](https://github.com/karolis-kimtys/github-readme-stats)
  -->
  
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=k-karolis&label=Profile%20views&color=0e75b6&style=flat" alt="k-karolis" /> </p>
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=k-karolis&label=Profile%20views&color=0e75b6&style=flat" alt="k-karolis" /> </p>
 
