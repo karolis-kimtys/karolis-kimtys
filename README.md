@@ -4,7 +4,6 @@
 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=k-karolis&label=Profile%20views&color=0e75b6&style=flat" alt="k-karolis" /> </p><!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karolis-kimtys" alt="karolis kimtys" /></a> </p> -->
 
-
 🔭 I’m currently working on **Move the Masses Charity**
 
 🌱 I’m currently learning **All about Web Developement**
@@ -17,11 +16,12 @@
 
 📄 Know about my experiences, check my [CV](https://www.notion.so/karoliskimtys/Karolis-Kimtys-3a9bda1f40db4d66b53bc9958e70276a)
 
+<p>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karolis-kimtys&show_icons=true&locale=en&layout=compact&theme=radical" alt="karolis-kimtys" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=karolis-kimtys&show_icons=true&locale=en&theme=radical" alt="karolis-kimtys" />
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karolis-kimtys&show_icons=true&locale=en&layout=compact&theme=radical" alt="karolis-kimtys" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=karolis-kimtys&show_icons=true&locale=en&theme=radical" alt="karolis-kimtys" /></p>
+</p>
 
 <!-- <p>&nbsp;</p> -->
 
@@ -29,6 +29,3 @@
 
 <!-- [![Karolis Kimtys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karoliskimtys)](https://github.com/karolis-kimtys/github-readme-stats)
  -->
- 
-
-
