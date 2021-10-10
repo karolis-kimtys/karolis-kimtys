@@ -1,8 +1,6 @@
 <h1 align="center" >Hi 👋, I'm Karolis Kimtys</h1>
 <h3 align="center">A passionate Front End  Web Developer 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-karolis&label=Profile%20views&color=0e75b6&style=flat" alt="k-karolis" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karolis-kimtys" alt="karolis kimtys" /></a> </p>
 
 
@@ -30,4 +28,6 @@
 
 <!-- [![Karolis Kimtys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karoliskimtys)](https://github.com/karolis-kimtys/github-readme-stats)
  -->
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-karolis&label=Profile%20views&color=0e75b6&style=flat" alt="k-karolis" /> </p>
 
