@@ -18,8 +18,9 @@
 
 <p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karolis-kimtys&show_icons=true&locale=en&layout=compact&theme=radical" alt="karolis-kimtys" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=karolis-kimtys&show_icons=true&locale=en&theme=radical" alt="karolis-kimtys" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karolis-kimtys&show_icons=true&locale=en&layout=compact&theme=radical" alt="karolis-kimtys" />
 
 </p>
 
