@@ -63,15 +63,15 @@
  
  </p><!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karolis-kimtys" alt="karolis kimtys" /></a> </p> -->
 
-🔭 I’m currently working on **Move the Masses Charity**
+🔭 I’m currently working at **Move the Masses**
 
 🌱 I’m currently learning **All about Web Developement**
 
 👯 I’m looking to collaborate on **JavasScript/React Projects**
 
-👨‍💻 All of my projects are available at [https://www.karoliskimtys.com/](https://www.karoliskimtys.com/)
+👨‍💻 My website [https://www.karoliskimtys.com/](https://www.karoliskimtys.com/)
 
-📫 How to reach me **karolis.kimtys@gmail.com**
+📫 Reach me at **karolis.kimtys@gmail.com**
 
 📄 Know about my experiences, check my [CV](https://www.notion.so/karoliskimtys/Karolis-Kimtys-3a9bda1f40db4d66b53bc9958e70276a)
 
