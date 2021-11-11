@@ -85,6 +85,8 @@
 
 </p>
 
+![Alt](https://repobeats.axiom.co/api/embed/94030da5b0406873305bbf7f5b4e795ab3ec5097.svg "Repobeats analytics image")
+
 <!-- <p>&nbsp;</p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karolis-kimtys&" alt="karolis-kimtys" /></p> -->
