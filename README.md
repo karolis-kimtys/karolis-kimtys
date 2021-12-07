@@ -69,9 +69,9 @@
 
 👯 I’m looking to collaborate on **JS/React Projects**
 
-👨‍💻 [My website](https://www.karoliskimtys.com/)
+👨‍💻 [Personal Website](https://www.karoliskimtys.com/)
 
-📫 [Reach out to me](mailto:karolis.kimtys@gmail.com)
+📫 [E-Mail Me](mailto:karolis.kimtys@gmail.com)
 
 📄 [CV](https://www.notion.so/karoliskimtys/Karolis-Kimtys-3a9bda1f40db4d66b53bc9958e70276a)
 
