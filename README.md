@@ -71,9 +71,9 @@
 
 👨‍💻 My website [https://www.karoliskimtys.com/](https://www.karoliskimtys.com/)
 
-📫 Reach me at **karolis.kimtys@gmail.com**
+📫 Reach out to me [Mail Me](karolis.kimtys@gmail.com)
 
-📄 CV [CV](https://www.notion.so/karoliskimtys/Karolis-Kimtys-3a9bda1f40db4d66b53bc9958e70276a)
+📄 [CV](https://www.notion.so/karoliskimtys/Karolis-Kimtys-3a9bda1f40db4d66b53bc9958e70276a)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-karolis&label=Profile%20views&color=0e75b6&style=flat" alt="k-karolis" /> 
 
