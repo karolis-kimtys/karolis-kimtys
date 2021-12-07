@@ -71,7 +71,7 @@
 
 👨‍💻 My website [https://www.karoliskimtys.com/](https://www.karoliskimtys.com/)
 
-📫 Reach out to me [Mail Me](karolis.kimtys@gmail.com)
+📫 Reach out to me [mailto](mailto:karolis.kimtys@gmail.com)
 
 📄 [CV](https://www.notion.so/karoliskimtys/Karolis-Kimtys-3a9bda1f40db4d66b53bc9958e70276a)
 
