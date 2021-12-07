@@ -1,5 +1,5 @@
-<h1 align="center" >Hi 👋, I'm Karolis Kimtys</h1>
-<h3 align="center">A passionate Front End  Web Developer 🚀 </h3>
+<h1 align="center" >Hey, I am Karolis Kimtys</h1>
+<h3 align="center">A professional Front End Web Developer</h3>
 <p align="center"> 
 <a href="https://babeljs.io/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
@@ -65,15 +65,15 @@
 
 🔭 I’m currently working at **Move the Masses**
 
-🌱 I’m currently learning **All about Web Developement**
+🌱 I’m currently learning **All about Web/Software Developement**
 
-👯 I’m looking to collaborate on **JavasScript/React Projects**
+👯 I’m looking to collaborate on **JS/React Projects**
 
 👨‍💻 My website [https://www.karoliskimtys.com/](https://www.karoliskimtys.com/)
 
 📫 Reach me at **karolis.kimtys@gmail.com**
 
-📄 Know about my experiences, check my [CV](https://www.notion.so/karoliskimtys/Karolis-Kimtys-3a9bda1f40db4d66b53bc9958e70276a)
+📄 CV [CV](https://www.notion.so/karoliskimtys/Karolis-Kimtys-3a9bda1f40db4d66b53bc9958e70276a)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-karolis&label=Profile%20views&color=0e75b6&style=flat" alt="k-karolis" /> 
 
