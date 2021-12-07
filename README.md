@@ -75,7 +75,7 @@
 
 📄 [CV](https://www.notion.so/karoliskimtys/Karolis-Kimtys-3a9bda1f40db4d66b53bc9958e70276a)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-karolis&label=Profile%20views&color=0e75b6&style=flat" alt="k-karolis" /> 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-karolis&label=Profile%20views&color=0e75b6&style=flat" alt="k-karolis" /> 
 
 <p>
 
@@ -84,7 +84,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karolis-kimtys&show_icons=true&locale=en&layout=compact&theme=radical" alt="karolis-kimtys" />
 
 </p>
-
+ -->
 
 
 <!-- <p>&nbsp;</p> -->
