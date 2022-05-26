@@ -63,15 +63,15 @@
  
  </p><!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karolis-kimtys" alt="karolis kimtys" /></a> </p> -->
 
-🔭 I’m currently working at **Move the Masses**
+🔭 Working at **Move the Masses**
 
-🌱 I’m currently learning **All about Web/Software Developement**
-
-👯 I’m looking to collaborate on **JS/React Projects**
+👯 Open for new **oportunities** in web/software development
 
 👨‍💻 [Personal Website](https://www.karoliskimtys.com/)
 
 📫 [E-Mail Me](mailto:karolis.kimtys@gmail.com)
+
+📋 [LinkedIn](https://www.linkedin.com/in/karoliskimtys/)
 
 📄 [CV](https://www.notion.so/karoliskimtys/Karolis-Kimtys-3a9bda1f40db4d66b53bc9958e70276a)
 
