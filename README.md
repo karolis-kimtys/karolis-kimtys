@@ -1,5 +1,5 @@
-<h1 align="center" >Hey, I am Karolis Kimtys</h1>
-<h3 align="center">A professional Front End Web Developer</h3>
+<h1 align="center" >My name is Karolis Kimtys</h1>
+<h3 align="center">and I am a professional Front End Web Developer</h3>
 <p align="center"> 
 <a href="https://babeljs.io/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
