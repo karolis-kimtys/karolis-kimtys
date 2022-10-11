@@ -1,20 +1,4 @@
-<h1 align="center" >My name is Karolis Kimtys</h1>
-<h3 align="center">and I am a professional Front End Web Developer</h3>
- 
- </p><!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karolis-kimtys" alt="karolis kimtys" /></a> </p> -->
-
-🔭 Working at **Move the Masses** as front end web developer. 
-
-👯 Open for new **oportunities** in web/software development
-
 👨‍💻 [Personal Website](https://www.karoliskimtys.com/)
-
-📫 [E-Mail Me](mailto:karolis.kimtys@gmail.com)
-
-📋 [LinkedIn](https://www.linkedin.com/in/karoliskimtys/)
-
-📄 [CV](https://www.notion.so/karoliskimtys/Karolis-Kimtys-3a9bda1f40db4d66b53bc9958e70276a)
-
 
 <p align="center"> 
 <a href="https://babeljs.io/" target="_blank"> 
